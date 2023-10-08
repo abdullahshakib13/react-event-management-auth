@@ -7,10 +7,9 @@ import Banner from "../Banner/Banner";
 const Home = () => {
     const services = useLoaderData();
     return (
-        <div>
+        <div className="space-y-8">
             <Nabvar></Nabvar>
             <Banner></Banner>
-            <h2>This is Home</h2>
             <Services services={services}></Services>
             <Footer></Footer>
         </div>
