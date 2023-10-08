@@ -9,6 +9,8 @@ import {
 } from "react-router-dom";
 import Root from './layouts/Root.jsx';
 import Home from './components/Home/Home.jsx';
+import Login from './components/Login/Login.jsx';
+import Register from './components/Register/Register.jsx';
 
 const router = createBrowserRouter([
   {
@@ -20,6 +22,14 @@ const router = createBrowserRouter([
         element: <Home></Home>,
         loader: ()=>fetch('services.json')
       },
+      {
+        path: "/login",
+        element: <Login></Login>
+      },
+      {
+        path: "/register",
+        element: <Register></Register>
+      }
     ]
   },
 ]);

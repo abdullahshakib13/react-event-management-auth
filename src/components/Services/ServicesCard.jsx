@@ -11,7 +11,7 @@ const ServicesCard = ({service}) => {
                     <p>Price: { price}</p>
                     <p>{short_description }</p>
                     <div className="card-actions justify-center">
-                    <button className="btn btn-primary">See Details</button>
+                    <button className="btn btn-primary">{button_text}</button>
                     </div>
                 </div>
             </div> 

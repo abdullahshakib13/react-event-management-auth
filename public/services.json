@@ -5,7 +5,7 @@
     "image": "https://i.ibb.co/G2V1PHY/concert-image.jpg",
     "price": "$50",
     "short_description": "Concerts and music festivals are live events where musicians and bands perform in front of an audience. They offer a unique experience to enjoy music, ranging from intimate solo acts to large-scale outdoor festivals featuring multiple genres. These events provide an opportunity for fans to connect with their favorite artists and discover new ones, creating memorable moments through the power of live music.",
-    "button_text": "Book Now"
+    "button_text": "See Details"
   },
   {
     "id": "2",
@@ -13,7 +13,7 @@
     "image": "https://i.ibb.co/1mDSVgJ/theater-and-arts.jpg",
     "price": "$20",
     "short_description": "Theater and performing arts encompass a wide range of live entertainment, including plays, musicals, dance performances, and more. These events bring stories to life through the talents of actors, dancers, and musicians, often in grand venues like theaters and opera houses. Theater and performing arts offer a rich cultural experience, combining storytelling, creativity, and the magic of live performance.",
-    "button_text": "Get Tickets"
+    "button_text": "See Details"
   },
   {
     "id": "3",
@@ -21,7 +21,7 @@
     "image": "https://i.ibb.co/8P3rjkJ/film-screnings.jpg",
     "price": "$30",
     "short_description": "Film screenings and premieres showcase movies on the big screen, providing audiences with the chance to immerse themselves in cinematic storytelling. Screenings are often held in theaters, while premieres are glamorous red-carpet events attended by the cast and crew. These events offer a first look at new films and create excitement among movie enthusiasts.",
-    "button_text": "Purchase Tickets"
+    "button_text": "See Details"
   },
   {
     "id": "4",
@@ -29,7 +29,7 @@
     "image": "https://i.ibb.co/sbz0CR3/comedy-show.jpg",
     "price": "$40",
     "short_description": "Comedy shows are live performances featuring comedians who entertain audiences with humor, wit, and laughter. Stand-up comedy, improv, and comedy clubs are popular formats for delivering jokes and funny anecdotes. Comedy shows provide a break from everyday life, offering a chance to relax and enjoy a good laugh.",
-    "button_text": "Join the Party"
+    "button_text": "See Details"
   },
   {
     "id": "5",
@@ -37,7 +37,7 @@
     "image": "https://i.ibb.co/M6tQJLs/sports.jpg",
     "price": "$35",
     "short_description": "Sports events bring together athletes and fans in a competitive and exhilarating atmosphere. From football and basketball games to tennis matches and the Olympics, sports events create a sense of camaraderie and excitement. Fans cheer for their favorite teams and athletes while witnessing exceptional feats of athleticism.",
-    "button_text": "Reserve Seats"
+    "button_text": "See Details"
   },
   {
     "id": "6",
@@ -45,6 +45,6 @@
     "image": "https://i.ibb.co/JKyyPLh/magic-show.jpg",
     "price": "$25",
     "short_description": "Magic shows are captivating performances where magicians perform illusions, tricks, and sleight of hand to amaze and astonish their audiences. These shows often feature elements of mystery and wonder, leaving spectators in awe of the magician's skill and creativity. Magic shows offer a sense of wonder and amazement, making them a delightful form of entertainment.",
-    "button_text": "Get Enchanted"
+    "button_text": "See Details"
   }
 ]
